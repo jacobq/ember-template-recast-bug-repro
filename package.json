@@ -52,5 +52,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "resolutions": {
+    "**/ember-template-recast": "4.0.0"    
   }
 }
